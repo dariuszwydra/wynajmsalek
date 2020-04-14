@@ -6,5 +6,5 @@ import pl.dariuszwydra.musicbooking.entity.Room;
 
 @CrossOrigin("http://localhost:4200")
 public interface RoomRepository extends JpaRepository<Room,Long> {
-// abc
+// abcdef
 }
